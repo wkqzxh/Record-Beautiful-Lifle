@@ -1,2 +1,2 @@
 # Record-Beautiful-Lifle
-personal blog
+Personal Blog
